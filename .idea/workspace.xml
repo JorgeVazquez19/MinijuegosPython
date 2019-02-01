@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c5f3a86-40d2-4dac-a5e0-c08758d1d2a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/minijuegos.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/minijuegos.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/minijuegos/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/minijuegos/bigbang_juego.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/minijuegos/cartas_quince.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/minijuegos/dados.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/minijuegos/piedra_papel_tijera.py" beforeDir="false" />
-    </list>
+    <list default="true" id="6c5f3a86-40d2-4dac-a5e0-c08758d1d2a7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,12 +160,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549011346468</updated>
-      <workItem from="1549011347626" duration="987000" />
+      <workItem from="1549011347626" duration="1598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="987000" />
+    <option name="totallyTimeSpent" value="1598000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -190,7 +182,7 @@
       <window_info anchor="bottom" id="Event Log" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
