@@ -2,21 +2,21 @@ import random
 
 from pip._vendor.distlib.compat import raw_input
 
-user1 = raw_input("Eres el primer jugador, escribe tu nombre para lanzar los dados --> ")
+carmen = raw_input("Erecribe el nombre del jugador 1: ")
 primer_dado = random.randint(1,6)
 segundo_dado = random.randint(1,6)
-print (user1 + " has sacado un " + str(primer_dado) + " y un " + str(segundo_dado))
-user1_dados = primer_dado + segundo_dado
+print (carmen + " has sacado un " + str(primer_dado) + " y un " + str(segundo_dado))
+carmen_dados = primer_dado + segundo_dado
 
-user2 = raw_input("Eres el segundo jugador, escribe tu nombre para lanzar los dados --> ")
+david = raw_input("Escribe el nombre del jugador 2: ")
 primer_dado = random.randint(1,6)
 segundo_dado = random.randint(1,6)
-print (user2 + " has sacado un " + str(primer_dado) + " y un " + str(segundo_dado))
+print (david + " has sacado un " + str(primer_dado) + " y un " + str(segundo_dado))
 user2_dados = primer_dado + segundo_dado
 
-if user1_dados > user2_dados:
-    print ("Has ganado " + user1)
-elif user1_dados == user2_dados:
+if carmen_dados > user2_dados:
+    print ("Has ganado " + carmen)
+elif carmen_dados == user2_dados:
     print ("Empate!")
 else:
-    print ("Has ganado " + user2)
+    print ("Has ganado " + david)
